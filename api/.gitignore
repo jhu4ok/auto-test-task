@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/.idea/
+/test-output/
+*.iml
+*.project
+*.classpath
+/lib/*
+/.allure/
